@@ -1,0 +1,20 @@
+theme: minima
+
+title: 神户小鸟的秘密营地
+description: 基本只是个堆积各种随记的地方
+
+author:
+  name: Kanbe-Kotori
+  email: kotori@nulladev.cn
+  
+show_excerpts: false
+
+minima:
+  date_format: "%b %-d, %Y"
+  
+header_pages:
+ - about/index.md
+  
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
