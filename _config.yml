@@ -15,7 +15,7 @@ minima:
   
 header_pages:
  - index.md
- - travels/index.md
+# - travels/index.md
  - about/index.md
   
 plugins:
