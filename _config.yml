@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 
 title: 神户小鸟的秘密营地
 author:
@@ -21,3 +21,4 @@ header_pages:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
