@@ -17,6 +17,7 @@ header_pages:
  - index.md
 # - travels/index.md
  - about/index.md
+ - covid19/index.md
   
 plugins:
  - jekyll-remote-theme
