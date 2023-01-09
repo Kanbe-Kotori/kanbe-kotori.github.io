@@ -1,14 +1,14 @@
 theme: minima
 
 title: 神户小鸟的秘密营地
-description: >
-  如你所见，这里基本只是个堆积各种随笔和吐槽文的地方。
-
 author:
   name: Kanbe Kotori
   email: kotori@nulladev.cn
   
-show_excerpts: false
+description: >
+  如你所见，这里基本只是个堆积各种随笔和吐槽文的地方。
+
+show_excerpts: true
 
 minima:
   date_format: "%b %-d, %Y"
