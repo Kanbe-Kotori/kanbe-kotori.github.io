@@ -1,9 +1,18 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: page
+title: "首页"
 ---
+## 随便写点什么
++ 虽然不知道你是怎么找到这里的，但这里大概只是一个用来躲避现实中的熟人，记录一些自己真正想记的东西的奇怪的个人博客。
+
+
++ 尽管总是 ~~（恬不知耻地）~~ 自称为全栈程序员，但本人其实对HTML相当不熟悉，并且也不会UI设计 ~~（好惨）~~，因此不得不使用一种完全不需要脑子、而且自带各种theme的jekyll建站，也没有使用任何稍微高级一点的功能，全都是用最简单的markdown写的。高情商地说，这属于“内容优先的极简主义”~~，低情商地说，就是长得比较寒碜~~。这里使用的是最基础的minima主题。
+
+
++ 由于本人懒得备案，所以本站其实是挂在github.io上的。如果看不到网站中的图片，是因为github的raw被封了。
+
+
++ 本站目前还远远没有完成建设，并且在很长一段时间里都将维持未完成的状态，因此一部分还在填坑中的页面就（理所当然地）没有提供访问引用，还请各位读者知悉。~~（当然如果你找得到的话也可以直接跳转）~~
+
+
++ ~~所以为什么你说话会自带吐槽役啊喂~~

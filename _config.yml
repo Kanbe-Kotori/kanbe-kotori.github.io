@@ -1,24 +1,21 @@
-title: Your awesome title
+title: 神户小鸟的森林工坊
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Kanbe-Kotori
+  email: admin@nulladev.cn
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  森林结界中的秘密工坊，无意义杂谈和游记的生产处，以及脑洞和思维闪光的陈列馆。
 
-# Build settings
+show_excerpts: true
 
 theme: minima
+
+permalink: none
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Theme-specific settings
+  - jekyll-sitemap
 
 minima:
   # Minima date format.
@@ -45,12 +42,6 @@ minima:
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-# If you want to link only specific pages in your header, uncomment this and add the path to the pages in
-# order as they should show up.
-#
-# header_pages:
-#   - about.md
-
-# Set to `true` to show excerpts on the homepage.
-#
-# show_excerpts: false
+ header_pages:
+   - notes/index.md
+   - about/index.md
