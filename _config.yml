@@ -6,11 +6,11 @@ author:
 description: >
   森林结界中的秘密工坊，无意义杂谈和游记的生产处，以及脑洞和思维闪光的陈列馆。
 
-show_excerpts: true
-
 theme: minima
 
 permalink: none
+
+show_excerpts: true
 
 plugins:
   - jekyll-feed
@@ -42,6 +42,6 @@ minima:
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
- header_pages:
-   - notes/index.md
-   - about/index.md
+header_pages:
+  - notes/index.md
+  - about/index.md
