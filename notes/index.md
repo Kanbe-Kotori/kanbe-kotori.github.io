@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: collection
 title: 杂谈
 ---
 ## 文章列表
