@@ -2,7 +2,9 @@
 layout: collection
 title: 杂谈
 ---
-## 文章列表
+<div class="post-content">
+  <h2>文章列表</h2>
+</div>
 
 <ul class="post-list">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

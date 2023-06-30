@@ -2,18 +2,22 @@
 layout: collection
 title: 游记
 ---
-## 置顶内容
-<h3>
-<a class="post-link" href="./about">关于游记</a>
-</h3>
+<div class="post-content">
+  <h2>置顶内容</h2>
+</div>
 
-<h3>
-<a class="post-link" href="./grading">评分标准</a>
-</h3>
+<ul class="post-list">
+  <h3>
+    <a class="post-link" href="./about">关于游记</a>
+    <a class="post-link" href="./grading">评分标准</a>
+  </h3>
+</ul>
 
 ---
 
-## 游记一览（多图杀猫）
+<div class="post-content">
+  <h2>游记一览（多图杀猫）</h2>
+</div>
 
 <ul class="post-list">
   {%- assign date_format = "%Y-%m" -%}
