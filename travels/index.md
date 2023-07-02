@@ -3,12 +3,17 @@ layout: collection
 title: 游记
 ---
 <div class="post-content">
-  <h2>置顶内容</h2>
+  <h2>写在前面</h2>
 </div>
 
 <ul class="post-list">
+  <span class="post-meta">手动置顶</span>
   <h3>
-    <a class="post-link" href="./about">关于游记</a>
+    <a class="post-link" href="./about">关于本页</a>
+  </h3>
+
+  <span class="post-meta">手动置顶</span>
+  <h3>
     <a class="post-link" href="./grading">评分标准</a>
   </h3>
 </ul>
