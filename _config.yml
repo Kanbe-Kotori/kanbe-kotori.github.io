@@ -45,7 +45,7 @@ minima:
 header_pages:
   - travels/index.md
   - notes/index.md
-  - timeline/index.md
+  - diary/index.md
   - about/index.md
   - covid19/index.md
 
@@ -53,3 +53,6 @@ collections:
   posts_travels:
     output: true
     permalink: /travels/:title:output_ext
+  posts_diaries:
+    output: true
+    permalink: /diary/:title:output_ext
