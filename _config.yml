@@ -53,6 +53,3 @@ collections:
   posts_travels:
     output: true
     permalink: /travels/:title:output_ext
-  posts_diaries:
-    output: true
-    permalink: /diary/:title:output_ext
