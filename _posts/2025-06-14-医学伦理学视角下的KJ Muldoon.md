@@ -1,6 +1,6 @@
 ---
 layout: post
-category: notes
+category: archived
 title: 医学伦理学视角下的KJ Muldoon
 excerpt: 体细胞编辑，看似安全的一步（AIGC警告）
 ---
