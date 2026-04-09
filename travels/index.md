@@ -26,7 +26,8 @@ title: 游记
 
 <ul class="post-list">
   {%- assign date_format = "%Y-%m" -%}
-  {% for post in site.posts_travels %}
+  {% assign posts = site.posts_travels | sort: "date" | reverse %}
+  {% for post in posts %}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
     <h3>
       <a class="post-link" href="{{ post.url | relative_url }}">

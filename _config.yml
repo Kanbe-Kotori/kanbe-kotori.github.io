@@ -67,7 +67,6 @@ header_pages:
   - notes/index.md
   - diary/index.md
   - about/index.md
-  - covid19/index.md
 
 collections:
   posts_travels:
